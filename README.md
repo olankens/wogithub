@@ -8,22 +8,19 @@ Phasellus id mi ut elit feugiat aliquet sed eu nibh. Morbi vestibulum lectus non
 
 ### Gallery #1
 
-<img src=".assets/1280x640.png" width="100%"/>
-
-### Gallery #2
-
 <img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
-### Gallery #3
+### Gallery #2
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
 
-### Gallery #4
+### Gallery #3
 
 <img src=".assets/296x640.png" width="23.125%%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/952x640.png" width="74.375%"/>
 
-### Gallery #5
+### Gallery #4
+
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
 
 # <samp>GUIDANCE</samp>
