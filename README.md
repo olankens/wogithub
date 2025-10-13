@@ -52,11 +52,15 @@ Donec pulvinar metus eu erat maximus, in feugiat elit feugiat. Sed in quam posue
 
 ```
 
+---
+
 ### Delete Something
 
 ```shell
 
 ```
+
+---
 
 ### Gather Something
 
