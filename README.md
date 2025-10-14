@@ -1,32 +1,8 @@
 ![](.assets/1280x640.png)
 
-# <samp>DOWNLOAD</samp>
-# <samp>DONATION</samp>
-# <samp>FUNDINGS</samp>
-
 # <samp>OVERVIEW</samp>
 
 Phasellus id mi ut elit feugiat aliquet sed eu nibh. Morbi vestibulum lectus non blandit molestie. Vestibulum at consectetur massa, id aliquam tellus. Pellentesque consectetur, magna vitae hendrerit pulvinar, felis orci ultrices velit, sed semper lacus diam nec quam. Nullam interdum diam ac fringilla varius. Nam lobortis tempor urna, ac tincidunt sem bibendum at. Suspendisse lectus felis, rhoncus sit amet rhoncus vel, interdum vitae mi. Praesent id purus ut massa viverra imperdiet vitae id elit. Fusce cursus ipsum eget nulla lacinia maximus.
-
-Morbi in bibendum sem. Mauris varius ut ante a pulvinar. Mauris rutrum risus eget tellus finibus, in cursus libero auctor. Aliquam egestas turpis nulla, egestas lobortis nisl sollicitudin sed. Sed viverra nec ligula in aliquam. Maecenas euismod tortor nec turpis iaculis dapibus at eget nibh. Morbi sagittis faucibus ligula vel bibendum. Nam ac eros vel orci ullamcorper consequat.
-
-### Preview #1
-
-<img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
-
-### Preview #2
-
-<img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
-
-### Preview #3
-
-<img src=".assets/296x640.png" width="23.125%%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/952x640.png" width="74.375%"/>
-
-### Preview #4
-
-<img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
-
-# <samp>FEATURES</samp>
 
 ### Feature #1
 
@@ -38,42 +14,50 @@ Nullam facilisis volutpat enim sed placerat. Proin a pretium tortor. Sed euismod
 
 Cras mattis diam dictum scelerisque hendrerit. Nunc a dui hendrerit, dictum urna sed, vestibulum velit. Phasellus gravida elit ante, sed commodo ipsum ultrices nec. Morbi eu libero in nulla pharetra accumsan et in purus. Nam et posuere lectus. Maecenas tincidunt laoreet urna.
 
-<img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
+<img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
 
 ### Feature #3
 
 Morbi a tempus leo, vel gravida augue. Nunc ac pretium est. Ut in odio mauris. Nam turpis orci, varius eget diam a, aliquam volutpat orci. Sed risus dolor, cursus in ornare sit amet, faucibus non tortor. Quisque ut ultricies libero.
 
-<img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
+<img src=".assets/296x640.png" width="23.125%%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/952x640.png" width="74.375%"/>
 
 ### Feature #4
 
 Donec pulvinar metus eu erat maximus, in feugiat elit feugiat. Sed in quam posuere, pellentesque libero et, tempor tellus. Duis bibendum nulla sodales, cursus quam ut, ullamcorper diam. Proin finibus leo arcu, eget blandit dui cursus quis. Pellentesque eget imperdiet.
 
-<img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
+<img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
+
+### Feature #5
+
+Quisque rhoncus id quam a mattis. Aliquam efficitur ligula quis luctus commodo. Aenean aliquam, arcu a molestie euismod, lorem velit imperdiet ipsum, in efficitur enim orci ac lorem. Integer eget dapibus tortor. Maecenas sed lacinia risus. Donec elementum fringilla sem, ut ullamcorper.
+
+<img src=".assets/1280x160.png" width="100%"/><img src=".assets/1x1.png" height="2.5%"/><img src=".assets/1280x160.png" width="100%"/><img src=".assets/1x1.png" height="2.5%"/><img src=".assets/1280x160.png" width="100%"/>
 
 # <samp>GUIDANCE</samp>
 
 ### Create Something
 
-```shell
+<img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
+```shell
+...
 ```
 
 ### Read Something
 
 ```shell
-
+...
 ```
 
 ### Update Something
 
 ```shell
-
+...
 ```
 
 ### Delete Something
 
 ```shell
-
+...
 ```
