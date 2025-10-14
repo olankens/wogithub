@@ -4,6 +4,8 @@
 
 Phasellus id mi ut elit feugiat aliquet sed eu nibh. Morbi vestibulum lectus non blandit molestie. Vestibulum at consectetur massa, id aliquam tellus. Pellentesque consectetur, magna vitae hendrerit pulvinar, felis orci ultrices velit, sed semper lacus diam nec quam. Nullam interdum diam ac fringilla varius. Nam lobortis tempor urna, ac tincidunt sem bibendum at. Suspendisse lectus felis, rhoncus sit amet rhoncus vel, interdum vitae mi. Praesent id purus ut massa viverra imperdiet vitae id elit. Fusce cursus ipsum eget nulla lacinia maximus.
 
+<img src=".assets/624x160.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x160.png" width="48.75%"/>
+
 ### Feature #1
 
 Nullam facilisis volutpat enim sed placerat. Proin a pretium tortor. Sed euismod felis ligula, sed dictum tortor suscipit vel. Nulla ultricies tellus non est aliquam, quis congue quam lacinia. Donec et venenatis nunc. Phasellus ac hendrerit quam. Proin pretium elementum imperdiet. In.
@@ -28,17 +30,9 @@ Donec pulvinar metus eu erat maximus, in feugiat elit feugiat. Sed in quam posue
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
-### Feature #5
-
-Quisque rhoncus id quam a mattis. Aliquam efficitur ligula quis luctus commodo. Aenean aliquam, arcu a molestie euismod, lorem velit imperdiet ipsum, in efficitur enim orci ac lorem. Integer eget dapibus tortor. Maecenas sed lacinia risus. Donec elementum fringilla sem, ut ullamcorper.
-
-<img src=".assets/1280x160.png" width="100%"/><img src=".assets/1x1.png" height="2.5%"/><img src=".assets/1280x160.png" width="100%"/><img src=".assets/1x1.png" height="2.5%"/><img src=".assets/1280x160.png" width="100%"/>
-
 # <samp>GUIDANCE</samp>
 
 ### Create Something
-
-<img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
 ```shell
 ...
