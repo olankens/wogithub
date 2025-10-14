@@ -1,4 +1,4 @@
-![](.assets/1280x640.png)
+![](.assets/social.png)
 
 # <samp>OVERVIEW</samp>
 
@@ -10,13 +10,19 @@ Nullam id ex commodo, sagittis tortor eget, sollicitudin ligula. Vestibulum ante
 
 ### Feature #1
 
+![](.assets/1280x640.png)
+
+Suspendisse auctor justo vitae rutrum luctus. Nam arcu nunc, ornare ac tincidunt eu, faucibus non lectus. Etiam blandit cursus condimentum. Mauris aliquet volutpat velit, id mollis purus molestie sed. Morbi vitae nunc consectetur, venenatis massa et, ornare tellus. Donec aliquet.
+
+### Feature #2
+
 <img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
 Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis. Nullam in iaculis ante, suscipit aliquam orci. Sed mattis facilisis tellus.
 
 <hr>
 
-### Feature #2
+### Feature #3
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
 
@@ -24,7 +30,7 @@ Suspendisse vel imperdiet velit, ac varius tellus. Cras ante metus, maximus et p
 
 <hr>
 
-### Feature #3
+### Feature #4
 
 <img src=".assets/296x640.png" width="23.125%%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/952x640.png" width="74.375%"/>
 
@@ -32,7 +38,7 @@ Curabitur sagittis elit a sapien fringilla, id rhoncus ex elementum. Donec sed l
 
 <hr>
 
-### Feature #4
+### Feature #5
 
 <img src=".assets/952x640.png" width="74.375%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%%"/>
 
@@ -40,7 +46,7 @@ Phasellus pellentesque lobortis ligula, non aliquet purus imperdiet sed. Nunc eu
 
 <hr>
 
-### Feature #5
+### Feature #6
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
@@ -48,7 +54,7 @@ Curabitur eros sapien, posuere non elit sed, tincidunt convallis mauris. Morbi a
 
 <hr>
 
-### Feature #6
+### Feature #7
 
 <img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
 
@@ -56,7 +62,7 @@ Morbi commodo arcu sed ante suscipit, vitae condimentum arcu molestie. Duis risu
 
 <hr>
 
-### Feature #7
+### Feature #8
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
 
