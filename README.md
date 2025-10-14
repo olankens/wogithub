@@ -1,12 +1,12 @@
 ![](.assets/1280x640.png)
 
----
+<!-- --- -->
 
 # <samp>OVERVIEW</samp>
 
 This section is for the muggles! Here you can explore the project and see what it can do without needing any technical knowledge. It highlights the main features, functionality, and impressive aspects in a simple and easy-to-understand way. Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
 
----
+<!-- --- -->
 
 ### Feature #1
 
@@ -14,7 +14,7 @@ Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel m
 
 <img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
----
+<!-- --- -->
 
 ### Feature #2
 
@@ -22,7 +22,7 @@ Suspendisse vel imperdiet velit, ac varius tellus. Cras ante metus, maximus et p
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
 
----
+<!-- --- -->
 
 ### Feature #3
 
@@ -30,7 +30,7 @@ Curabitur sagittis elit a sapien fringilla, id rhoncus ex elementum. Donec sed l
 
 <img src=".assets/296x640.png" width="23.125%%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/952x640.png" width="74.375%"/>
 
----
+<!-- --- -->
 
 ### Feature #4
 
@@ -38,7 +38,7 @@ Phasellus pellentesque lobortis ligula, non aliquet purus imperdiet sed. Nunc eu
 
 <img src=".assets/952x640.png" width="74.375%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%%"/>
 
----
+<!-- --- -->
 
 ### Feature #5
 
@@ -46,7 +46,7 @@ Curabitur eros sapien, posuere non elit sed, tincidunt convallis mauris. Morbi a
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
----
+<!-- --- -->
 
 ### Feature #6
 
@@ -54,7 +54,7 @@ Morbi commodo arcu sed ante suscipit, vitae condimentum arcu molestie. Duis risu
 
 <img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
 
----
+<!-- --- -->
 
 ### Feature #7
 
@@ -62,13 +62,13 @@ Vestibulum ipsum lectus, pellentesque eget justo a, vulputate finibus sapien. Ut
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
 
----
+<!-- --- -->
 
 # <samp>GUIDANCE</samp>
 
 This section is for the wizards! Here you will find detailed guidance, tips, and best practices specifically designed for developers. It covers advanced techniques, technical explanations, and everything you need to fully understand and work with the code. Whether you are integrating, debugging, or extending the project, this section will provide the support you need to succeed.
 
----
+<!-- --- -->
 
 ### Create Something
 
@@ -76,7 +76,7 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
----
+<!-- --- -->
 
 ### Read Something
 
@@ -84,7 +84,7 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
----
+<!-- --- -->
 
 ### Update Something
 
@@ -92,7 +92,7 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
----
+<!-- --- -->
 
 ### Delete Something
 
