@@ -6,7 +6,7 @@
 
 This section is for the muggles! Here you can explore the project and see what it can do without needing any technical knowledge. It highlights the main features, functionality, and impressive aspects in a simple and easy-to-understand way. Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
 
-<hr>
+Nullam id ex commodo, sagittis tortor eget, sollicitudin ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed maximus orci quis erat porta dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque finibus diam et ex euismod, eget tincidunt nisl hendrerit. Etiam et neque vitae lorem commodo venenatis. Phasellus sollicitudin sem odio, quis tempus tellus suscipit ac. Nam eu lacinia risus, nec lacinia ex. Donec sed feugiat tortor, in euismod lorem. Donec vel dignissim metus. Cras placerat velit a elit eleifend elementum.
 
 ### Feature #1
 
@@ -14,15 +14,11 @@ Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel m
 
 <img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
-<hr>
-
 ### Feature #2
 
 Suspendisse vel imperdiet velit, ac varius tellus. Cras ante metus, maximus et placerat ac, tincidunt a ligula. Sed sed ante at felis sodales sagittis nec in risus. Integer sed enim sem. Vestibulum volutpat odio massa, sit amet aliquet erat vehicula.
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
-
-<hr>
 
 ### Feature #3
 
@@ -30,15 +26,11 @@ Curabitur sagittis elit a sapien fringilla, id rhoncus ex elementum. Donec sed l
 
 <img src=".assets/296x640.png" width="23.125%%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/952x640.png" width="74.375%"/>
 
-<hr>
-
 ### Feature #4
 
 Phasellus pellentesque lobortis ligula, non aliquet purus imperdiet sed. Nunc eu tortor accumsan, iaculis felis in, tempor velit. Nunc imperdiet tellus et felis suscipit tincidunt. Sed vel purus commodo, hendrerit odio vitae, porttitor turpis. Aenean sodales urna lacinia fermentum dignissim.
 
 <img src=".assets/952x640.png" width="74.375%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%%"/>
-
-<hr>
 
 ### Feature #5
 
@@ -46,15 +38,11 @@ Curabitur eros sapien, posuere non elit sed, tincidunt convallis mauris. Morbi a
 
 <img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/624x640.png" width="48.75%"/>
 
-<hr>
-
 ### Feature #6
 
 Morbi commodo arcu sed ante suscipit, vitae condimentum arcu molestie. Duis risus ligula, ultrices consectetur velit ac, tempus molestie justo. Vestibulum porttitor bibendum lorem vitae volutpat. Pellentesque sit amet dui vitae turpis volutpat porta eget a ipsum. Nam eu nunc.
 
 <img src=".assets/624x640.png" width="48.75%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/><img src=".assets/1x1.png" width="2.5%"/><img src=".assets/296x640.png" width="23.125%"/>
-
-<hr>
 
 ### Feature #7
 
@@ -68,15 +56,11 @@ Vestibulum ipsum lectus, pellentesque eget justo a, vulputate finibus sapien. Ut
 
 This section is for the wizards! Here you will find detailed guidance, tips, and best practices specifically designed for developers. It covers advanced techniques, technical explanations, and everything you need to fully understand and work with the code. Whether you are integrating, debugging, or extending the project, this section will provide the support you need to succeed.
 
-<hr>
-
 ### Create Something
 
 ```shell
 ...
 ```
-
-<hr>
 
 ### Read Something
 
@@ -84,15 +68,11 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
-<hr>
-
 ### Update Something
 
 ```shell
 ...
 ```
-
-<hr>
 
 ### Delete Something
 
