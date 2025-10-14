@@ -6,6 +6,8 @@ This section is for the muggles! Here you can explore the project and see what i
 
 Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
 
+---
+
 ### Feature #1
 
 Nulla facilisi. Donec volutpat metus vitae turpis ultricies lobortis. Duis vel massa non ex ultrices rutrum. Praesent dignissim condimentum consequat. Sed mollis commodo odio, quis imperdiet augue porttitor quis. Nullam in iaculis ante, suscipit aliquam orci. Sed mattis facilisis tellus.
@@ -53,6 +55,8 @@ Vestibulum ipsum lectus, pellentesque eget justo a, vulputate finibus sapien. Ut
 This section is for the wizards! Here you will find detailed guidance, tips, and best practices specifically designed for developers. It covers advanced techniques, technical explanations, and everything you need to fully understand and work with the code.
 
 Whether you are integrating, debugging, or extending the project, this section will provide the support you need to succeed.
+
+---
 
 ### Create Something
 
