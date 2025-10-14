@@ -76,17 +76,23 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
+---
+
 ### Read Something
 
 ```shell
 ...
 ```
 
+---
+
 ### Update Something
 
 ```shell
 ...
 ```
+
+---
 
 ### Delete Something
 
