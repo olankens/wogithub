@@ -1,4 +1,4 @@
-<a href="#"><img src=".assets/social.png" width="100%"/></a>
+![](.assets/social.png)
 
 # <samp>OVERVIEW</samp>
 
@@ -8,8 +8,20 @@ This section is for the muggles! Here you can explore the project and see what i
 
 ### Preview #1
 
-<a href=".assets/social.png"><img src="https://lipsum.app/1280x640/f7df1e/000" width="100%"/></a>
+![](.assets/social.png)
 
 ### Preview #2
 
-<a href="/"><img src="https://lipsum.app/632x640/f7df1e/000" width="49.375%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="/"><img src="https://lipsum.app/632x640/f7df1e/000" width="49.375%"/></a>
+<img src="https://lipsum.app/632x640/f7df1e/000" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/f7df1e/000" width="49.375%"/>
+
+### Preview #3
+
+<img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/>
+
+### Preview #4
+
+<img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/f7df1e/000" width="49.375%"/>
+
+### Preview #5
+
+<img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/f7df1e/000" width="74.6875%"/>
