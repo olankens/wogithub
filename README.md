@@ -8,7 +8,7 @@ This section is for the muggles! Here you can explore the project and see what i
 
 ### Preview #1
 
-<a href="/"><img src="https://lipsum.app/1280x640/f7df1e/000" width="100%"/></a>
+<a href=".assets/social.png"><img src="https://lipsum.app/1280x640/f7df1e/000" width="100%"/></a>
 
 ### Preview #2
 
