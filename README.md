@@ -4,11 +4,15 @@
 
 This section is for the muggles! Here you can explore the project and see what it can do without needing any technical knowledge. It highlights the main features, functionality, and impressive aspects in a simple and easy-to-understand way. Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
 
+---
+
 ### Feature #1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
 ![](https://lipsum.app/1280x640/f7df1e/000)
+
+---
 
 ### Feature #2
 
@@ -16,11 +20,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 <img src="https://lipsum.app/632x640/f7df1e/000" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/f7df1e/000" width="49.375%"/>
 
+---
+
 ### Feature #3
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
 <img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/>
+
+---
 
 ### Feature #4
 
@@ -28,11 +36,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 <img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/f7df1e/000" width="49.375%"/>
 
+---
+
 ### Feature #5
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
 <img src="https://lipsum.app/308x640/f7df1e/000" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/f7df1e/000" width="74.6875%"/>
+
+---
 
 ### Feature #6
 
@@ -40,25 +52,37 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 <img src="https://lipsum.app/416x640/f7df1e/000" width="32.5%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/416x640/f7df1e/000" width="32.5%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/416x640/f7df1e/000" width="32.5%"/>
 
+---
+
 ### Feature #7
 
 <img src="https://lipsum.app/632x256/f7df1e/000" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x256/f7df1e/000" width="49.375%"/>
+
+---
 
 ### Feature #6
 
 <img src="https://lipsum.app/416x160/f7df1e/000" width="32.5%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/416x160/f7df1e/000" width="32.5%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/416x160/f7df1e/000" width="32.5%"/>
 
+---
+
 ### Feature #7
 
 <img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/>
+
+---
 
 ### Feature #8
 
 <img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/>
 
+---
+
 # <samp>GUIDANCE</samp>
 
 This section is for the wizards! Here you will find detailed guidance, tips, and best practices specifically designed for developers. It covers advanced techniques, technical explanations, and everything you need to fully understand and work with the code. Whether you are integrating, debugging, or extending the project, this section will provide the support you need to succeed.
+
+---
 
 ### Create Something
 
@@ -66,17 +90,23 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
+---
+
 ### Read Something
 
 ```shell
 ...
 ```
 
+---
+
 ### Update Something
 
 ```shell
 ...
 ```
+
+---
 
 ### Delete Something
 
