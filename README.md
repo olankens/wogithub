@@ -1,6 +1,4 @@
-![](.assets/social.png)
-
----
+<img src=".assets/social.png" width="100%"/>
 
 # <samp>OVERVIEW</samp>
 
