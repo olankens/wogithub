@@ -4,6 +4,8 @@
 
 This section is for the muggles! Here you can explore the project and see what it can do without needing any technical knowledge. It highlights the main features, functionality, and impressive aspects in a simple and easy-to-understand way. Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
 
+---
+
 # <samp>FEATURES</samp>
 
 ### Feature A
@@ -83,6 +85,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 <img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/f7df1e/000" width="10%"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
+
+---
 
 # <samp>GUIDANCE</samp>
 
