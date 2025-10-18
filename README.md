@@ -1,5 +1,3 @@
-![](.assets/social.png)
-
 # <samp>OVERVIEW</samp>
 
 This section is for the muggles! Here you can explore the project and see what it can do without needing any technical knowledge. It highlights the main features, functionality, and impressive aspects in a simple and easy-to-understand way. Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
