@@ -4,10 +4,6 @@
 
 This section is for the muggles! Here you can explore the project and see what it can do without needing any technical knowledge. It highlights the main features, functionality, and impressive aspects in a simple and easy-to-understand way. Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
 
-<hr>
-
-# FEATURES
-
 ### Feature #1
 
 <img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
