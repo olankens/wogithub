@@ -1,4 +1,4 @@
-<h2>
+<hr>
 
 # OVERVIEW
 
@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<h2>
+<hr>
 
 # GUIDANCE
 
@@ -114,4 +114,4 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
-<h2>
+<hr>
