@@ -1,10 +1,10 @@
-<hr>
+<h2>
 
 # OVERVIEW
 
 This section is for the muggles! Here you can explore the project and see what it can do without needing any technical knowledge. It highlights the main features, functionality, and impressive aspects in a simple and easy-to-understand way. Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
 
-<hr>
+<h2>
 
 ### Awesome Feature
 
@@ -12,7 +12,7 @@ This section is for the muggles! Here you can explore the project and see what i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<hr>
+<h2>
 
 ### Introducing Feature
 
@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<hr>
+<h2>
 
 ### Discover Feature
 
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<hr>
+<h2>
 
 ### Explore Feature
 
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<hr>
+<h2>
 
 ### Experience Feature
 
@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<hr>
+<h2>
 
 ### Spotlight on Feature
 
@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<hr>
+<h2>
 
 ### Check Out Feature
 
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<hr>
+<h2>
 
 ### Meet Feature
 
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<hr>
+<h2>
 
 ### Unveiling Feature
 
@@ -76,13 +76,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin al
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
 
-<hr>
+<h2>
 
 # GUIDANCE
 
 This section is for the wizards! Here you will find detailed guidance, tips, and best practices specifically designed for developers. It covers advanced techniques, technical explanations, and everything you need to fully understand and work with the code. Whether you are integrating, debugging, or extending the project, this section will provide the support you need to succeed.
 
-<hr>
+<h2>
 
 ### Create Something
 
@@ -90,7 +90,7 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
-<hr>
+<h2>
 
 ### Read Something
 
@@ -98,7 +98,7 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
-<hr>
+<h2>
 
 ### Update Something
 
@@ -106,7 +106,7 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
-<hr>
+<h2>
 
 ### Delete Something
 
@@ -114,4 +114,4 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 ...
 ```
 
-<hr>
+<h2>
