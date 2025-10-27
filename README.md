@@ -8,57 +8,66 @@ This section is for the muggles! Here you can explore the project and see what i
 
 ### Introducing Feature
 
-![](https://lipsum.app/1280x640/273445/fff)
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
+![](https://lipsum.app/1280x640/273445/fff)
 
 <hr>
 
 ### Discover Feature
 
-<img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
+<img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
 
 <hr>
 
 ### Meet Feature
 
-<img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
+<img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
 
 <hr>
 
 ### Explore Feature
 
-<img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
+<img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
 
 <hr>
 
 ### Unveiling Feature
 
-<img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/>
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
+<img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/>
 
 <hr>
 
 ### Experience Feature
 
-<img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
+<img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
 
 <hr>
 
 ### Highlighting Feature
 
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
+
 <img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin aliquet metus ut mollis. Praesent ac dolor id ligula maximus sagittis condimentum vel quam. Fusce luctus, lectus eget hendrerit egestas, magna odio rutrum urna, ac congue dolor odio ac mauris. Praesent ut erat venenatis, dapibus justo nec, finibus nisi.
+<hr>
+
+### Common Questions
+
+<details>
+<summary><strong>Q: How do I customize the configuration?</strong></summary>
+You can customize the configuration by editing the `config.json` file:
+</details>
 
 <hr>
 
@@ -70,6 +79,8 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 
 ### Create Something
 
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
+
 ```shell
 ...
 ```
@@ -77,6 +88,8 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 <hr>
 
 ### Read Something
+
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
 
 ```shell
 ...
@@ -86,6 +99,8 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 
 ### Update Something
 
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
+
 ```shell
 ...
 ```
@@ -93,6 +108,8 @@ This section is for the wizards! Here you will find detailed guidance, tips, and
 <hr>
 
 ### Delete Something
+
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
 
 ```shell
 ...
