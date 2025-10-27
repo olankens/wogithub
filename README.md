@@ -1,10 +1,6 @@
-<hr>
-
 # OVERVIEW
 
 This section is for the muggles! Here you can explore the project and see what it can do without needing any technical knowledge. It highlights the main features, functionality, and impressive aspects in a simple and easy-to-understand way. Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
-
-<hr>
 
 ### Introducing Feature
 
@@ -12,15 +8,11 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ![](https://lipsum.app/1280x640/273445/fff)
 
-<hr>
-
 ### Discover Feature
 
 Maecenas dui neque, fermentum id aliquet sit amet, rhoncus sit amet nulla. Sed luctus tristique nulla, eget interdum turpis placerat eu. In cursus libero in lobortis mattis.
 
 <img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
-
-<hr>
 
 ### Meet Feature
 
@@ -28,15 +20,11 @@ Integer lobortis enim orci, vel iaculis mauris scelerisque id. Donec egestas neq
 
 <img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
 
-<hr>
-
 ### Explore Feature
 
 Sed placerat tristique neque ut egestas. Morbi varius, augue vitae tincidunt facilisis, massa justo consequat enim, at finibus mauris massa quis diam. Integer pellentesque nisi quis odio pretium, sed congue mauris consectetur.
 
 <img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
-
-<hr>
 
 ### Unveiling Feature
 
@@ -44,15 +32,11 @@ Nam lobortis pulvinar nibh, at scelerisque ex. Pellentesque nisl lorem, vulputat
 
 <img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/>
 
-<hr>
-
 ### Experience Feature
 
 Quisque tellus tortor, dignissim eu consequat quis, sagittis at velit. Proin ipsum nisl, accumsan nec est a, luctus gravida elit.
 
 <img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
-
-<hr>
 
 ### Highlighting Feature
 
@@ -60,13 +44,9 @@ Vestibulum scelerisque sit amet enim ut malesuada. Fusce lacinia aliquam ante, e
 
 <img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
 
-<hr>
+<!-- # GUIDANCE
 
-# GUIDANCE
-
-This section is for the wizards! Here you will find detailed guidance, tips, and best practices specifically designed for developers. It covers advanced techniques, technical explanations, and everything you need to fully understand and work with the code. Whether you are integrating, debugging, or extending the project, this section will provide the support you need to succeed.
-
-<hr>
+This section is for the wizards! Here you will find detailed guidance, tips, and best practices specifically designed for developers. It covers advanced techniques, technical explanations, and everything you need to fully understand and work with the code. Whether you are integrating, debugging, or extending the project, this section will provide the support you need to succeed. -->
 
 ### Getting Started
 
@@ -76,8 +56,6 @@ Mauris consectetur mauris ipsum
 ...
 ```
 
-<hr>
-
 ### Create Something
 
 Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
@@ -85,8 +63,6 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 ```shell
 ...
 ```
-
-<hr>
 
 ### Read Something
 
@@ -96,8 +72,6 @@ Suspendisse placerat ligula sed sapien sagittis, eget venenatis ligula sollicitu
 ...
 ```
 
-<hr>
-
 ### Update Something
 
 Donec placerat fermentum finibus.
@@ -106,8 +80,6 @@ Donec placerat fermentum finibus.
 ...
 ```
 
-<hr>
-
 ### Delete Something
 
 Quisque dapibus erat erat, sed luctus libero vestibulum varius. Mauris orci nisi, pharetra vel dignissim nec, lacinia in mi.
@@ -115,5 +87,3 @@ Quisque dapibus erat erat, sed luctus libero vestibulum varius. Mauris orci nisi
 ```shell
 ...
 ```
-
-<hr>
