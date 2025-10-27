@@ -110,7 +110,7 @@ Donec placerat fermentum finibus.
 
 ### Delete Something
 
-Quisque dapibus erat erat, sed luctus libero vestibulum varius. Mauris orci nisi, pharetra vel dignissim nec, lacinia in mi.
+Quisque dapibus erat erat, sed luctus libero vestibulum varius.
 
 ```shell
 ...
