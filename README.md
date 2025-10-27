@@ -16,7 +16,7 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ### Discover Feature
 
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
+Maecenas dui neque, fermentum id aliquet sit amet, rhoncus sit amet nulla. Sed luctus tristique nulla, eget interdum turpis placerat eu. In cursus libero in lobortis mattis.
 
 <img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
 
@@ -24,7 +24,7 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ### Meet Feature
 
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
+Integer lobortis enim orci, vel iaculis mauris scelerisque id. Donec egestas neque ac augue placerat dignissim. Morbi cursus, massa nec ullamcorper ullamcorper, turpis mauris semper lectus, pellentesque bibendum tellus justo in dolor. Vestibulum bibendum congue finibus. Nam ullamcorper urna non diam blandit, sed facilisis justo rhoncus. Ut porta congue leo semper eleifend. Praesent euismod magna eget quam scelerisque pellentesque.
 
 <img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
 
@@ -32,7 +32,7 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ### Explore Feature
 
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
+Sed placerat tristique neque ut egestas. Morbi varius, augue vitae tincidunt facilisis, massa justo consequat enim, at finibus mauris massa quis diam. Integer pellentesque nisi quis odio pretium, sed congue mauris consectetur.
 
 <img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
 
@@ -40,7 +40,7 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ### Unveiling Feature
 
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
+Nam lobortis pulvinar nibh, at scelerisque ex. Pellentesque nisl lorem, vulputate eget pellentesque sit amet, eleifend id nisi. Sed mi neque, tincidunt vitae enim ut, dictum vestibulum nisl
 
 <img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/>
 
@@ -48,7 +48,7 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ### Experience Feature
 
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
+Quisque tellus tortor, dignissim eu consequat quis, sagittis at velit. Proin ipsum nisl, accumsan nec est a, luctus gravida elit.
 
 <img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
 
@@ -56,24 +56,25 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ### Highlighting Feature
 
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
+Vestibulum scelerisque sit amet enim ut malesuada. Fusce lacinia aliquam ante, eget commodo tortor fermentum eget. Suspendisse tortor neque, pharetra a pellentesque id, tristique et lectus. Fusce porta tortor id mauris pulvinar congue. Aliquam tempor arcu ex, bibendum cursus mi ultricies id.
 
 <img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
-
-<hr>
-
-### Common Questions
-
-<details>
-<summary><strong>Q: How do I customize the configuration?</strong></summary>
-You can customize the configuration by editing the `config.json` file:
-</details>
 
 <hr>
 
 # GUIDANCE
 
 This section is for the wizards! Here you will find detailed guidance, tips, and best practices specifically designed for developers. It covers advanced techniques, technical explanations, and everything you need to fully understand and work with the code. Whether you are integrating, debugging, or extending the project, this section will provide the support you need to succeed.
+
+<hr>
+
+### Getting Started
+
+Mauris consectetur mauris ipsum
+
+```shell
+...
+```
 
 <hr>
 
@@ -89,7 +90,7 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ### Read Something
 
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
+Suspendisse placerat ligula sed sapien sagittis, eget venenatis ligula sollicitudin.
 
 ```shell
 ...
@@ -99,7 +100,7 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ### Update Something
 
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
+Donec placerat fermentum finibus.
 
 ```shell
 ...
@@ -109,7 +110,7 @@ Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et
 
 ### Delete Something
 
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
+Quisque dapibus erat erat, sed luctus libero vestibulum varius. Mauris orci nisi, pharetra vel dignissim nec, lacinia in mi.
 
 ```shell
 ...
