@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id quam at risus ullamcorper finibus ut sed ligula. Sed varius purus vel pharetra imperdiet. Pellentesque erat purus, hendrerit ut dolor vitae, tincidunt mollis odio. Etiam accumsan lacus id nunc bibendum, non facilisis sem euismod. Maecenas sollicitudin sit amet sem quis aliquet.</p>
+<p align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id quam at risus ullamcorper finibus ut sed ligula. Sed varius purus vel pharetra imperdiet. Pellentesque erat purus, hendrerit ut dolor vitae, tincidunt mollis odio. Etiam accumsan lacus id nunc bibendum, non facilisis sem euismod maecenas sollicitudin.</p>
 
 <hr>
 
