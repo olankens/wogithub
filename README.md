@@ -1,76 +1,64 @@
-<hr>
-
-# OVERVIEW
-
-This section is for the muggles! Here you can explore the project and see what it can do without needing any technical knowledge. It highlights the main features, functionality, and impressive aspects in a simple and easy-to-understand way. Whether you are curious, testing, or just want to admire the project, this section is made for you to enjoy and discover.
+<p align="center"><img src=".assets/icon.png" width="132"/></p>
+<h1 align="center"><samp>WOGITHUB</samp></h1>
+<p align="center"><a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DISCORD</a></p>
 
 <hr>
 
-### Introducing Feature
-
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur. Nullam rutrum ac nunc in congue. Nulla nisl nulla, facilisis sed elit a, tristique placerat felis. Nunc tempor, eros eget pretium dapibus, nunc felis vestibulum leo, sit amet hendrerit nisi est quis augue.
-
-![](https://lipsum.app/1280x640/273445/fff)
+<p align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id quam at risus ullamcorper finibus ut sed ligula. Sed varius purus vel pharetra imperdiet. Pellentesque erat purus, hendrerit ut dolor vitae, tincidunt mollis odio. Etiam accumsan lacus id nunc bibendum, non facilisis sem euismod. Maecenas sollicitudin sit amet sem quis aliquet.</p>
 
 <hr>
 
-### Discover Feature
+<h3 align="center">Introducing Feature</h3>
+<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus. Maecenas at dolor id sem pellentesque rhoncus.</p>
 
-Maecenas dui neque, fermentum id aliquet sit amet, rhoncus sit amet nulla. Sed luctus tristique nulla, eget interdum turpis placerat eu. In cursus libero in lobortis mattis.
-
-<img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
-
-<hr>
-
-### Meet Feature
-
-Integer lobortis enim orci, vel iaculis mauris scelerisque id. Donec egestas neque ac augue placerat dignissim. Morbi cursus, massa nec ullamcorper ullamcorper, turpis mauris semper lectus, pellentesque bibendum tellus justo in dolor. Vestibulum bibendum congue finibus. Nam ullamcorper urna non diam blandit, sed facilisis justo rhoncus. Ut porta congue leo semper eleifend. Praesent euismod magna eget quam scelerisque pellentesque.
-
-<img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
+![](https://lipsum.app/1280x640/3689e6/fff)
 
 <hr>
 
-### Explore Feature
+<h3 align="center">Discover Feature</h3>
+<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus. Maecenas at dolor id sem pellentesque rhoncus.</p>
 
-Sed placerat tristique neque ut egestas. Morbi varius, augue vitae tincidunt facilisis, massa justo consequat enim, at finibus mauris massa quis diam. Integer pellentesque nisi quis odio pretium, sed congue mauris consectetur.
-
-<img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
-
-<hr>
-
-### Unveiling Feature
-
-Nam lobortis pulvinar nibh, at scelerisque ex. Pellentesque nisl lorem, vulputate eget pellentesque sit amet, eleifend id nisi. Sed mi neque, tincidunt vitae enim ut, dictum vestibulum nisl
-
-<img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/273445/fff" width="74.6875%"/>
+<img src="https://lipsum.app/632x640/3689e6/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/3689e6/fff" width="49.375%"/>
 
 <hr>
 
-### Experience Feature
+<h3 align="center">Meet Feature</h3>
+<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus. Maecenas at dolor id sem pellentesque rhoncus.</p>
 
-Quisque tellus tortor, dignissim eu consequat quis, sagittis at velit. Proin ipsum nisl, accumsan nec est a, luctus gravida elit.
-
-<img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/>
-
-<hr>
-
-### Highlighting Feature
-
-Vestibulum scelerisque sit amet enim ut malesuada. Fusce lacinia aliquam ante, eget commodo tortor fermentum eget. Suspendisse tortor neque, pharetra a pellentesque id, tristique et lectus. Fusce porta tortor id mauris pulvinar congue. Aliquam tempor arcu ex, bibendum cursus mi ultricies id.
-
-<img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/273445/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/273445/fff" width="49.375%"/>
+<img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/>
 
 <hr>
 
-# GUIDANCE
+<h3 align="center">Explore Feature</h3>
+<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus. Maecenas at dolor id sem pellentesque rhoncus.</p>
 
-This section is for the wizards! Here you will find detailed guidance, tips, and best practices specifically designed for developers. It covers advanced techniques, technical explanations, and everything you need to fully understand and work with the code. Whether you are integrating, debugging, or extending the project, this section will provide the support you need to succeed.
+<img src="https://lipsum.app/956x640/3689e6/fff" width="74.6875%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/>
 
 <hr>
 
-### Getting Started
+<h3 align="center">Unveiling Feature</h3>
+<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus. Maecenas at dolor id sem pellentesque rhoncus.</p>
 
-Mauris consectetur mauris ipsum
+<img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/3689e6/fff" width="74.6875%"/>
+
+<hr>
+
+<h3 align="center">Experience Feature</h3>
+<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus. Maecenas at dolor id sem pellentesque rhoncus.</p>
+
+<img src="https://lipsum.app/632x640/3689e6/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/>
+
+<hr>
+
+<h3 align="center">Highlighting Feature</h3>
+<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus. Maecenas at dolor id sem pellentesque rhoncus.</p>
+
+<img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/3689e6/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/3689e6/fff" width="49.375%"/>
+
+<hr>
+
+<h3 align="center">Getting Started</h3>
+<p align="center">Mauris consectetur mauris ipsum.</p>
 
 ```shell
 ...
@@ -78,19 +66,8 @@ Mauris consectetur mauris ipsum
 
 <hr>
 
-### Create Something
-
-Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
-
-```shell
-...
-```
-
-<hr>
-
-### Read Something
-
-Suspendisse placerat ligula sed sapien sagittis, eget venenatis ligula sollicitudin.
+<h3 align="center">Create Something</h3>
+<p align="center">Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.</p>
 
 ```shell
 ...
@@ -98,9 +75,17 @@ Suspendisse placerat ligula sed sapien sagittis, eget venenatis ligula sollicitu
 
 <hr>
 
-### Update Something
+<h3 align="center">Read Something</h3>
+<p align="center">Suspendisse placerat ligula sed sapien sagittis, eget venenatis ligula sollicitudin.</p>
 
-Donec placerat fermentum finibus.
+```shell
+...
+```
+
+<hr>
+
+<h3 align="center">Update Something</h3>
+<p align="center">Donec placerat fermentum finibus.</p>
 
 ```shell
 ...
@@ -108,12 +93,9 @@ Donec placerat fermentum finibus.
 
 <hr>
 
-### Delete Something
-
-Quisque dapibus erat erat, sed luctus libero vestibulum varius.
+<h3 align="center">Delete Something</h3>
+<p align="center">Quisque dapibus erat erat, sed luctus libero vestibulum varius.</p>
 
 ```shell
 ...
 ```
-
-<hr>
