@@ -1,4 +1,4 @@
-<p align="center"><img src="https://lipsum.app/132x132/333/fff" width="132"/></p>
+<p align="center"><img src=".assets/icon.svg" width="132"/></p>
 <h1 align="center"><samp>WOGITHUB</samp></h1>
 <p align="center"><a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DISCORD</a></p>
 
