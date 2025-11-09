@@ -1,79 +1,90 @@
-<p align="center"><img src=".assets/icon.svg" width="128"></p>
+<hr>
 
-<h1 align="center"><samp>WOGITHUB</samp></h1>
-<p align="center"><a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DISCORD</a></p>
+<div align="center">
+  <img src=".assets/icon.svg" width="128">
+  <h1><samp>TECHDOCS</samp></h1>
+  <a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DISCORD</a>
+  <hr>
+  <p>This is a README template file designed to provide a unified visual experience across all projects. Use this template to maintain consistency in documentation, branding, and presentation throughout all your repositories.</p>
+</div>
 
 <hr>
 
-<p align="center">This is a README template file designed to provide a unified visual experience across all projects. Use this template to maintain consistency in documentation, branding, and presentation throughout all your repositories.</p>
+### Introducing Feature
 
-<hr>
-
-<h3 align="center">Introducing Feature</h3>
-<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.</p>
+Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
 ![](https://lipsum.app/1280x640/333/fff)
 
 <hr>
 
-<h3 align="center">Discover Feature</h3>
-<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.</p>
+### Discover Feature
+
+Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
 <img src="https://lipsum.app/632x640/333/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/333/fff" width="49.375%"/>
 
 <hr>
 
-<h3 align="center">Meet Feature</h3>
-<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.</p>
+### Meet Feature
+
+Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
 <img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/>
 
 <hr>
 
-<h3 align="center">Explore Feature</h3>
-<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.</p>
+### Explore Feature
+
+Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
 <img src="https://lipsum.app/956x640/333/fff" width="74.6875%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/>
 
 <hr>
 
-<h3 align="center">Unveiling Feature</h3>
-<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.</p>
+### Unveiling Feature
+
+Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
 <img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/333/fff" width="74.6875%"/>
 
 <hr>
 
-<h3 align="center">Experience Feature</h3>
-<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.</p>
+### Experience Feature
+
+Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
 <img src="https://lipsum.app/632x640/333/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/>
 
 <hr>
 
-<h3 align="center">Highlighting Feature</h3>
-<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.</p>
+### Highlighting Feature
+
+Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
 <img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/333/fff" width="49.375%"/>
 
 <hr>
 
-<h3 align="center">Our Sponsors</h3>
-<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.</p>
+### Our Sponsors
+
+Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
 <img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/>
 
 <hr>
 
-<h3 align="center">The Contributors</h3>
-<p align="center">Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.</p>
+### The Contributors
+
+Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
 <img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/>
 
 <hr>
 
-<h3 align="center">Getting Started</h3>
-<p align="center">Mauris consectetur mauris ipsum.</p>
+### Getting Started
+
+Mauris consectetur mauris ipsum.
 
 ```shell
 ...
@@ -81,8 +92,9 @@
 
 <hr>
 
-<h3 align="center">Create Something</h3>
-<p align="center">Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.</p>
+### Create Something
+
+Etiam sed lectus sit amet augue egestas posuere. Donec cursus venenatis nulla et consectetur.
 
 ```shell
 ...
@@ -90,8 +102,9 @@
 
 <hr>
 
-<h3 align="center">Read Something</h3>
-<p align="center">Suspendisse placerat ligula sed sapien sagittis, eget venenatis ligula sollicitudin.</p>
+### Read Something
+
+Suspendisse placerat ligula sed sapien sagittis, eget venenatis ligula sollicitudin.
 
 ```shell
 ...
@@ -99,8 +112,9 @@
 
 <hr>
 
-<h3 align="center">Update Something</h3>
-<p align="center">Donec placerat fermentum finibus.</p>
+### Update Something
+
+Donec placerat fermentum finibus.
 
 ```shell
 ...
@@ -108,9 +122,12 @@
 
 <hr>
 
-<h3 align="center">Delete Something</h3>
-<p align="center">Quisque dapibus erat erat, sed luctus libero vestibulum varius.</p>
+### Delete Something
+
+Quisque dapibus erat erat, sed luctus libero vestibulum varius.
 
 ```shell
 ...
 ```
+
+<hr>
