@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src=".assets/icon.svg" width="128">
-  <h1><samp>TECHDOCS</samp></h1>
+  <h1><samp>WOGITHUB</samp></h1>
   <a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DISCORD</a>
   <hr>
   <p>This is a README template file designed to provide a unified visual experience across all projects. Use this template to maintain consistency in documentation, branding, and presentation throughout all your repositories.</p>
