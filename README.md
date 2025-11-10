@@ -1,7 +1,7 @@
 <hr>
 
 <div align="center">
-  <img src=".assets/icon.svg" width="128">
+  <img src=".assets/icon.svg" width="132">
   <h1><samp>WOGITHUB</samp></h1>
   <a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DISCORD</a>
   <hr>
