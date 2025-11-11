@@ -1,7 +1,7 @@
 <hr>
 
 <div align="center">
-  <img src=".assets/icon.svg" width="132">
+  <img src=".assets/ico.svg" width="132">
   <h1><samp>WOGITHUB</samp></h1>
   <a href="#">WEBSITE</a> · <a href="#">DOCUMENTATION</a> · <a href="#">DISCORD</a>
   <hr>
@@ -22,7 +22,7 @@ Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna
 
 Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
-<img src="https://lipsum.app/632x640/333/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/333/fff" width="49.375%"/>
+<img src="https://lipsum.app/632x640/333/fff" width="49.375%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/632x640/333/fff" width="49.375%"/>
 
 <hr>
 
@@ -30,7 +30,7 @@ Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna
 
 Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
-<img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/>
+<img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/>
 
 <hr>
 
@@ -38,7 +38,7 @@ Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna
 
 Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
-<img src="https://lipsum.app/956x640/333/fff" width="74.6875%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/>
+<img src="https://lipsum.app/956x640/333/fff" width="74.6875%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/>
 
 <hr>
 
@@ -46,7 +46,7 @@ Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna
 
 Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
-<img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/956x640/333/fff" width="74.6875%"/>
+<img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/956x640/333/fff" width="74.6875%"/>
 
 <hr>
 
@@ -54,7 +54,7 @@ Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna
 
 Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
-<img src="https://lipsum.app/632x640/333/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/>
+<img src="https://lipsum.app/632x640/333/fff" width="49.375%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/>
 
 <hr>
 
@@ -62,7 +62,7 @@ Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna
 
 Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
-<img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/333/fff" width="49.375%"/>
+<img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/308x640/333/fff" width="24.0625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/632x640/333/fff" width="49.375%"/>
 
 <hr>
 
@@ -70,7 +70,7 @@ Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna
 
 Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
-<img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/>
+<img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/200x200/333/fff" width="15.625%"/>
 
 <hr>
 
@@ -78,7 +78,7 @@ Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna
 
 Fusce cursus, ex vitae dignissim luctus, massa dui cursus nibh, ut sagittis urna turpis et lacus. Sed volutpat magna sed porttitor viverra. Phasellus arcu lectus, mattis non dignissim ac, dictum quis nibh. Nulla vestibulum augue eu metus dapibus congue. Vivamus id tortor feugiat, aliquam neque vel, consequat tellus.
 
-<img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/>
+<img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/><img src=".assets/00.png" width="1.25%"/><img src="https://lipsum.app/128x128/333/fff" width="10%"/>
 
 <hr>
 
